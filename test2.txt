@@ -1,7 +1,17 @@
 # Then how do add an files in the git by using the vs local 
 
-Folder(text file ) <---> git(copy folder) <---> workingFolder(local) untraacked file
+GitFolder(text file ) <---> git(copy folder) <---> workingFolder(local) untracked file
 
+# to verify wht status is our files:
+    git status filename
 
-Then move working (untracked files) INTO GIT(COPY FOLDER) clone by:
-git add filename
+# Then move working FOlder (untracked files) INTO GIT(COPY FOLDER) clone by:
+   1) first move file into stagging area by:
+         git add filename
+
+   2) Stagging area to local (Git Copy Folder)
+         git commit -m "message"
+
+# now the files are commited in the localgit folder but i need to send it on online git
+by the methods are:
+    git push origin(link) main(git folder located in github)
