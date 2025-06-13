@@ -1,0 +1,7 @@
+# Then how do add an files in the git by using the vs local 
+
+Folder(text file ) <---> git(copy folder) <---> workingFolder(local) untraacked file
+
+
+Then move working (untracked files) INTO GIT(COPY FOLDER) clone by:
+git add filename
