@@ -1,4 +1,4 @@
-Insert -----> Add----->Commit---->Push
+Insert -----> Add(Modify or delete)----->Commit---->Push
 
 
 # Then how do add an files in the git by using the vs local 
