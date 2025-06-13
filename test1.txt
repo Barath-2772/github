@@ -7,5 +7,5 @@ for mention i created the file,, i alteterd the file etc....
 
 4) we can add or delete files in git hub also manipulatre in VS Code by clone method.
  # first  create new folder (for accessing the git file in our local)
- w
+ 
  # Then new terminal.... type (git clone and add an link that is loacated in github green code section...click and get the link)
