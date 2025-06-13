@@ -1,3 +1,6 @@
+gir folder----> to work localay by (Clone)
+
+
 1) First we create the new repsository ...
 2) Then click the new file .... or upload an existing files
 3) enter the text after click the commit changes (save) and also adding some words in commit messages ..

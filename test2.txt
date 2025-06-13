@@ -1,3 +1,6 @@
+Insert -----> Add----->Commit---->Push
+
+
 # Then how do add an files in the git by using the vs local 
 
 GitFolder(text file ) <---> git(copy folder) <---> workingFolder(local) untracked file
@@ -15,3 +18,5 @@ GitFolder(text file ) <---> git(copy folder) <---> workingFolder(local) untracke
 # now the files are commited in the localgit folder but i need to send it on online git
 by the methods are:
     git push origin(link) main(git folder located in github)
+
+
