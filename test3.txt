@@ -1,2 +1,9 @@
 # This file is for retrive the file from the github not an entire clone ony jut retirve the files by...
   get pull
+
+# git clone: Used to create a local copy of a remote repository. 
+When you clone a repo, Git downloads all its files, history, branches, and commits into a new directory. 
+It’s typically used when you want to start working with a project for the first time.
+
+# git pull: Used to update your existing local repository with the latest changes from the remote one. It fetches new commits and merges them into your current branch. 
+This command is useful when collaborating with others to keep your local copy in sync.
