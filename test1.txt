@@ -1,4 +1,4 @@
-gir folder----> to work localay by (Clone)
+git folder----> to work localay by (Clone)
 
 
 1) First we create the new repsository ...
